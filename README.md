@@ -54,5 +54,4 @@ We evaluate trained models using Precision, Recall, F1 score, ROC curve, and con
 | Screaming      |       8       |        0.168       |      0.643      |    0.266    |
 | Siren          |       8       |        0.76        |      0.672      |    0.713    |
 
-![image](https://user-images.githubusercontent.com/73744769/126280185-b3e5e7ba-1863-492f-b443-ecc090a33aee.png)
 
