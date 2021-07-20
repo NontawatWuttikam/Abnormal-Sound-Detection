@@ -11,7 +11,7 @@ This project uses trained 8 binary classifier convolutional neural network which
 
 # 2. Project setup & structure
 
-![image](https://user-images.githubusercontent.com/73744769/126275132-8e85e0af-411b-47ea-a1a5-f4242a897f65.png)
+![image](https://user-images.githubusercontent.com/73744769/126282616-a9d4f355-1363-4b33-86f8-20facaed9f40.png)
 
 To run the project, please install Python 3.7.7 on your machine (using VirtualEnv is recommended). Then, create a folder for a project and put audio_binary.py file, requirements.txt file, and binary_model folder into the project folder. You can see the example of project structure above. Then install the essential modules in requirements.txt.
 
