@@ -43,3 +43,16 @@ We train the model on Google Colab instance (free). Each model is created using 
 
 We evaluate trained models using Precision, Recall, F1 score, ROC curve, and confusion matrix. The evaluation for each binary model is recorded HERE => https://drive.google.com/drive/folders/1GQBVhZrFNWNkxHJ0RdDGD8qAHekhfmMk?usp=sharing
 
+| model          | trained epoch | positive precision | positive recall | positive F1 |
+|----------------|---------------|--------------------|-----------------|-------------|
+| Barking        |       9       |        0.465       |      0.920      |    0.617    |
+| Car Alarm      |       12      |        0.15        |      0.633      |    0.242    |
+| Crying         |       18      |        0.608       |      0.662      |    0.634    |
+| Explosion      |       11      |        0.403       |      0.815      |     0.54    |
+| Interior Alarm |       17      |        0.755       |      0.703      |    0.728    |
+| Gunshot        |       16      |        0.42        |       0.93      |     0.58    |
+| Screaming      |       8       |        0.168       |      0.643      |    0.266    |
+| Siren          |       8       |        0.76        |      0.672      |    0.713    |
+
+![image](https://user-images.githubusercontent.com/73744769/126280185-b3e5e7ba-1863-492f-b443-ecc090a33aee.png)
+
